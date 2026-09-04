@@ -1,7 +1,9 @@
-# JF Private Health Dashboard Privacy Policy
+# Public Privacy and OAuth Information Pages
 
-Public privacy-policy page for the private, personal-use WHOOP integration named **JF Private Health Dashboard**.
+Public pages for JF's private, personal-use integrations:
 
-This repository contains only the policy page. It contains no health data, OAuth credentials, dashboard database, or application code.
+- WHOOP health-dashboard privacy policy: <https://norane01.github.io/jf-private-health-dashboard-privacy/>
+- Atlas Read-Only Workspace homepage: <https://norane01.github.io/jf-private-health-dashboard-privacy/google-workspace/>
+- Atlas Read-Only Workspace privacy policy: <https://norane01.github.io/jf-private-health-dashboard-privacy/google-workspace/privacy.html>
 
-Live policy: <https://norane01.github.io/jf-private-health-dashboard-privacy/>
+This repository contains only public information pages. It contains no health data, email, calendar data, OAuth credentials, dashboard database, collector state, generated briefs, or application code.
